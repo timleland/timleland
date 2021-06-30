@@ -11,7 +11,7 @@
 - Twitter [@Tim_Leland](https://twitter.com/Tim_Leland)
 
 
-### Popular Blogs Posts
+### Popular Blog Post
 - [Wireless Power Outlets](https://timleland.com/wireless-power-outlets/)
 - [Setup Homebridge to Start on Bootup](https://timleland.com/setup-homebridge-to-start-on-bootup/)
 - [Raspberry Pi Turn Tv On/Off CEC](https://timleland.com/raspberry-pi-turn-tv-onoff-cec/)
