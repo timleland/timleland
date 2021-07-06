@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim Leland</h1>
-<h3 align="center">I'm a full stack developer with a passion for building things.</h3>
+<h3 align="center">I'm a full stack developer</h3>
 
 - I’m currently working on [T.LY](https://t.ly/), [Weather Extension](https://weatherextension.com/), and [Link Shortener Extension](https://t.ly/extension).
 
