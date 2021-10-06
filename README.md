@@ -8,7 +8,7 @@
 - My blog is a place for me to share my [projects](https://timleland.com/category/side-project/), [reviews](https://timleland.com/category/review/), [home automation](https://timleland.com/category/home-automation/) and other [interesting things](https://timleland.com/category/raspberry-pi/). If you are interested in the tech I use daily, check out my [uses page](https://timleland.com/uses).
 
 - Email **tim@t.ly**
-- Twitter [@Tim_Leland](https://twitter.com/Tim_Leland)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/tim_leland?style=social&label=follow%20%40Tim_Leland)](https://twitter.com/intent/user?screen_name=tim_leland)
 
 
 ### Popular Blog Post
@@ -31,5 +31,4 @@
 -   [Read Later](https://timleland.com/read-later-extension/) ([Install](https://chrome.google.com/webstore/detail/read-later/hleifpgbhiladknmecmkpgbgfmlnjhoh))
 -   [Step Tracker](https://timleland.com/Step-Tracker-Extension/) ([Install](https://chrome.google.com/webstore/detail/step-tracker/mmehkkgdjeabomkpmpfkemcomagemjfn))
 
-
- <img src="https://komarev.com/ghpvc/?username=timleland">
+<img src="https://komarev.com/ghpvc/?username=timleland">
