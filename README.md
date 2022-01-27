@@ -20,6 +20,7 @@
 
 -   [T.LY Link Shortener](https://t.ly/) ([Blog](https://blog.t.ly/))
 -   [Link Unshortener](https://linkunshorten.com/)
+-   [Atomic Quote](https://atomicquote.com/)
 
 ### Browser Extensions
 
