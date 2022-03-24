@@ -24,8 +24,8 @@
 
 ### Browser Extensions
 
--   [Weather Extension](https://timleland.com/weather-chrome-extension/) ([Install](https://weatherextension.com/install)) [FAQ](https://timleland.com/weather-extension-faq/) 200,000+ users
--   [Link Shortener](https://timleland.com/link-shortener-extension/) ([Install](https://t.ly/extension)) 350,000+ *users*
+-   [Weather Extension](https://timleland.com/weather-chrome-extension/) ([Install](https://weatherextension.com/install)) [FAQ](https://timleland.com/weather-extension-faq/) 220,000+ users
+-   [Link Shortener](https://timleland.com/link-shortener-extension/) ([Install](https://t.ly/extension)) 400,000+ *users*
 -   [Bitcoin Tracker](https://timleland.com/bitcoin-tracker-extension/) ([Install](https://t.ly/bitcoin))
 -   [Weather Tab](https://timleland.com/weathertab/) ([Install](https://chrome.google.com/webstore/detail/weather-tab/fncgdgifhdpnlfijpimlgaheiapclldd?authuser=2))
 -   [Link Unshorten](https://linkunshorten.com/) ([Install](https://linkunshorten.com/extension))
