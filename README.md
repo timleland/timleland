@@ -18,7 +18,7 @@
 
 ### Projects
 
--   [T.LY Link Shortener](https://t.ly/) ([Blog](https://blog.t.ly/))
+-   [T.LY URL Shortener](https://t.ly/) ([Blog](https://t.ly/blog))
 -   [Link Unshortener](https://linkunshorten.com/)
 -   [Atomic Quote](https://atomicquote.com/)
 
