@@ -8,7 +8,7 @@
 - My blog is a place for me to share my [projects](https://timleland.com/category/side-project/), [reviews](https://timleland.com/category/review/), [home automation](https://timleland.com/category/home-automation/) and other [interesting things](https://timleland.com/category/raspberry-pi/). If you are interested in the tech I use daily, check out my [uses page](https://timleland.com/uses).
 
 - Email **tim@t.ly**
-- [![Twitter Follow](https://img.shields.io/twitter/follow/timleland?style=social&label=follow%20%40TimLeland)](https://twitter.com/intent/user?screen_name=timleland)
+- [![Twitter Follow](https://img.shields.io/badge/follow-%40TimLeland-1DA1F2?logo=twitter&style=social)](https://twitter.com/intent/user?screen_name=timleland)
 
 
 ### Popular Blog Post
