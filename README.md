@@ -22,6 +22,7 @@
 -   [URL Expander](https://t.ly/tools/link-expander)
 -   [Link Unshortener](https://linkunshorten.com/)
 -   [Atomic Quote](https://atomicquote.com/)
+-   [US Debt Clock](http://usdebtclock.co/)
 
 ### Browser Extensions
 
