@@ -20,7 +20,7 @@
 
 -   [T.LY URL Shortener](https://t.ly/) ([Blog](https://t.ly/blog))
 -   [URL Expander](https://t.ly/tools/link-expander)
--   [Link Unshortener](https://linkunshorten.com/)
+-   [Short Domain Finder](https://t.ly/tools/short-domain-finder)
 -   [Atomic Quote](https://atomicquote.com/)
 
 ### Browser Extensions
